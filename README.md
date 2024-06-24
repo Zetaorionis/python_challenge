@@ -17,9 +17,13 @@ Analysis should align with the following results:
 Financial Analysis
 ----------------------------
 Total Months: 86
+
 Total: $22564198
+
 Average Change: $-8311.11
+
 Greatest Increase in Profits: Aug-16 ($1862002)
+
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 In addition, final script should both print the analysis to the terminal and export a text file with the results.
@@ -42,14 +46,21 @@ Create a Python script that analyzes the votes and calculates each of the follow
 Analysis should align with the following results:
 
 Election Results
+
 -------------------------
 Total Votes: 369711
+
 -------------------------
 Charles Casper Stockham: 23.049% (85213)
+
 Diana DeGette: 73.812% (272892)
+
 Raymon Anthony Doane: 3.139% (11606)
+
 -------------------------
+
 Winner: Diana DeGette
+
 -------------------------
 
 In addition, final script should both print the analysis to the terminal and export a text file with the results.
